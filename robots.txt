@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ash-e-rr-anchele-v.github.io/web-resources/sitemap.xml
